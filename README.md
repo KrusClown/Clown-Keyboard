@@ -36,5 +36,16 @@ clownkeyboard/
 │   ├── deb/
 │   ├── rpm/
 │   └── arch/
-│
 └── README.md
+```
+
+# Installation
+
+| Distribution | Command |
+|-------------|----------|
+| 🟢 Ubuntu / Debian | `sudo apt install clownkeyboard` |
+| 🔵 Fedora | `sudo dnf install clownkeyboard` |
+| 🟣 Arch Linux | `sudo pacman -S clownkeyboard` |
+| 🟠 openSUSE | `sudo zypper install clownkeyboard` |
+| ⚫ Alpine Linux | `sudo apk add clownkeyboard` |
+| 🍓 Raspberry Pi OS | `sudo apt install clownkeyboard` |
