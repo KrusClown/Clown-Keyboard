@@ -3,7 +3,7 @@ ClownKeyboard is a next-generation virtual keyboard designed specifically for Li
 
 # Technologies Used
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux, arch&perline=6" />
+  <img src="https://skillicons.dev/icons?i=linux&perline=6" />
 </p>
 
 
