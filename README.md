@@ -1,4 +1,4 @@
-# Clown-Keyboard
+# Clown-Keyboard|鍵盤
 ClownKeyboard is a next-generation virtual keyboard designed specifically for Linux environments. Built with a hybrid Electron + Python architecture, it provides a responsive, accessible, and highly customizable typing experience across both Wayland and X11 display servers.
 
 # Technologies Used
@@ -49,3 +49,8 @@ clownkeyboard/
 | 🟠 openSUSE | `sudo zypper install clownkeyboard` |
 | ⚫ Alpine Linux | `sudo apk add clownkeyboard` |
 | 🍓 Raspberry Pi OS | `sudo apt install clownkeyboard` |
+
+
+
+
+
