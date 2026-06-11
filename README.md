@@ -1,7 +1,7 @@
 # Clown-Keyboard
-Welcome... this is an experiment for Linux.
-Cross-platform virtual keyboard for Linux supporting Wayland and X11.
+ClownKeyboard is a next-generation virtual keyboard designed specifically for Linux environments. Built with a hybrid Electron + Python architecture, it provides a responsive, accessible, and highly customizable typing experience across both Wayland and X11 display servers.
 
+# Technologies Used
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux&perline=6" />
 </p>
