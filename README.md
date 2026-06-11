@@ -8,6 +8,7 @@ Cross-platform virtual keyboard for Linux supporting Wayland and X11.
 
 
 # Structure
+```text
 clownkeyboard/
 │
 ├── frontend/
