@@ -55,7 +55,6 @@ clownkeyboard/
 | ⚫ Alpine Linux | `sudo apk add clownkeyboard` |
 | 🍓 Raspberry Pi OS | `sudo apt install clownkeyboard` |
 
-Your chosen theme is saved in localStorage and restored on next visit.
 
 
 
