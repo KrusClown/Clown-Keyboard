@@ -48,14 +48,14 @@ clownkeyboard/
 
 | Distribution | Command |
 |-------------|----------|
-| 🟢 Ubuntu / Debian | `sudo apt install clownkeyboard` |
+| 🟢 Ubuntu / Debian | `sudo apt install clownkeyboar` |
 | 🔵 Fedora | `sudo dnf install clownkeyboard` |
 | 🟣 Arch Linux | `sudo pacman -S clownkeyboard` |
 | 🟠 openSUSE | `sudo zypper install clownkeyboard` |
 | ⚫ Alpine Linux | `sudo apk add clownkeyboard` |
 | 🍓 Raspberry Pi OS | `sudo apt install clownkeyboard` |
 
-
+Your chosen theme is saved in localStorage and restored on next visit.
 
 
 
